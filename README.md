@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="40" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
+<img align="right" height="48" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
 
 ###
 
@@ -104,7 +104,3 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/atamertc/atamertc/output/snake.svg" alt="Snake animation" />
-
-###
