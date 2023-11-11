@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="48" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
+<img align="right" height="36" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
 
 ###
 
@@ -36,6 +36,10 @@
 
 ###
 
+<img align="left" height="64" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+
+###
+
 <div align="right">
   <a href="https://www.linkedin.com/in/atamertcakir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -53,6 +57,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -88,15 +94,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo"  />
 </div>
 
-
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
-
-###
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
-
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
 ###
 
@@ -104,3 +104,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/atamertc/atamertc/output/snake.svg" alt="Snake animation" />
+
+###
