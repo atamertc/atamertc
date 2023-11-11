@@ -108,7 +108,7 @@
 
 ###
 <br clear="both">
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
-<h2 align="center">Thank you for visiting my profile!</h2>
+<img align="left" height="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
+<h4 align="center">Thank you for visiting my profile!</h4>
 
 ###
