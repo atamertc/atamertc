@@ -88,9 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira logo"  />
 </div>
 
-###
-
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
 ###
 
@@ -98,11 +95,15 @@
 
 ###
 
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
+
+
+###
+
 <img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"  />
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/atamertc/atamertc/output/snake.svg" alt="Snake animation" />
 
