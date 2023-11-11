@@ -2,31 +2,23 @@
 
 ###
 
-<h3 align="center">An industrial engineer who develops software from Turkey.</h3>
-
-###
-
-<div align="left">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
-</div>
+<h2 align="center">An industrial engineer who develops software from Turkey.</h2>
 
 ###
 
 <br clear="both">
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atamertc.atamertc&"  />
 </div>
 
 ###
 
-<h4 align="left">🔭 I’m currently working on JAVA - Spring Boot/Cloud - MicroServices<br><br>🌱 I’m currently learning React</h4>
+<img align="right" height="40" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"  />
 
 ###
 
-<div align="center">
-  <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
+<h3 align="left">🔭 I’m currently working on JAVA - Spring Boot/Cloud - MicroServices<br><br>🌱 I’m currently learning React</h3>
 
 ###
 
@@ -98,15 +90,15 @@
 
 ###
 
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"  />
-
-###
-
 <img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
 ###
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+
+###
+
+<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif"  />
 
 ###
 
