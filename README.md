@@ -107,7 +107,7 @@
 <img align="left" height="160" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"  />
 
 ###
-<br/>
+
 <br clear="both">
 <img align="left" height="30" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
 <h4 align="left">Thank you for visiting my profile!</h4>
